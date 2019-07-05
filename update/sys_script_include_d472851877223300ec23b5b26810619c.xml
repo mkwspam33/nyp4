@@ -5,7 +5,7 @@
         <api_name>sn_nyp4.m1</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>alt</description>
         <name>m1</name>
         <script><![CDATA[var m1 = Class.create();
 m1.prototype = {
@@ -18,13 +18,13 @@ m1.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-05 20:53:05</sys_created_on>
         <sys_id>d472851877223300ec23b5b26810619c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>m1</sys_name>
         <sys_package display_value="nyp4" source="sn_nyp4">1652011877223300ec23b5b268106194</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="nyp4">1652011877223300ec23b5b268106194</sys_scope>
         <sys_update_name>sys_script_include_d472851877223300ec23b5b26810619c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-05 20:53:05</sys_updated_on>
+        <sys_updated_on>2019-07-05 20:54:03</sys_updated_on>
     </sys_script_include>
 </record_update>
